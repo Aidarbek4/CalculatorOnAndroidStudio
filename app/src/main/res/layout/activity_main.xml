@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="#ADD694"
+    android:background="#E4FA1B"
     android:padding="18dp">
 
     <TextView
@@ -35,7 +35,7 @@
         app:layout_constraintHorizontal_bias="0.549"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:backgroundTint="#4BDD16"
+        android:backgroundTint="#DDAB16"
         android:textColor="@color/white"/>
 
     <TextView

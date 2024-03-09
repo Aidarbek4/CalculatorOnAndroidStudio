@@ -26,9 +26,9 @@ public class MainActivity extends AppCompatActivity {
         tv_answer = findViewById(R.id.tv_answer);
         tvMainAnswer = findViewById(R.id.tv_main_answer);
         btnGenerate = findViewById(R.id.btn_generate);
-        lotty_sun.setAnimation(R.raw.sun);
-        lotty_one.setAnimation(R.raw.rocket);
-        lotty_two.setAnimation(R.raw.wind);
+        lotty_sun.setAnimation(R.raw.good);
+        lotty_one.setAnimation(R.raw.sp);
+        lotty_two.setAnimation(R.raw.leaf);
 
         btnGenerate.setOnClickListener(new View.OnClickListener() {
             @Override
